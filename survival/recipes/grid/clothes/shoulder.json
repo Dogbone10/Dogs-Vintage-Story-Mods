@@ -112,7 +112,6 @@
     {
 		ingredientPattern: "BCW,_S_",
 		recipeGroup: 1,
-        requiresTrait: "clothier",
 		ingredients: {
 			"B": { type: "item", code: "cloth-brown", quantity: 1 },
 			"C": { type: "item", code: "cloth-black", quantity: 1 },
@@ -126,7 +125,6 @@
     {
 		ingredientPattern: "BCW,_S_",
 		recipeGroup: 1,
-        requiresTrait: "clothier",
 		ingredients: {
 			"B": { type: "item", code: "cloth-gray", quantity: 1 },
 			"C": { type: "item", code: "cloth-black", quantity: 1 },
@@ -140,7 +138,6 @@
     {
 		ingredientPattern: "TST,_C_,_C_",
 		recipeGroup: 1,
-        requiresTrait: "clothier",
 		ingredients: {
 			"C": { type: "item", code: "cloth-{color}", quantity: 1 },
 			"S": { type: "item", code: "sewingkit", quantity: 1 },
