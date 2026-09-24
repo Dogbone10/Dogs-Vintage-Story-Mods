@@ -176,8 +176,7 @@
 	},
     {
 		ingredientPattern: "B_R,YSB,R_Y",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"B": { type: "item", code: "cloth-blue", quantity: 1 },
 			"Y": { type: "item", code: "cloth-yellow", quantity: 1 },
 			"R": { type: "item", code: "cloth-red", quantity: 1 },
@@ -190,8 +189,7 @@
 	
 	{
 		ingredientPattern: "BPB,BPB,_S_",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"B": { type: "item", code: "cloth-blue", quantity: 1 },
 			"P": { type: "item", code: "cloth-purple", quantity: 1 },
 			"S": { type: "item", code: "sewingkit" }
@@ -251,8 +249,7 @@
 	},
     {
 		ingredientPattern: "CCC,CSC",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"C": { type: "item", code: "cloth-purple", quantity: 1 },
 			"S": { type: "item", code: "sewingkit" }
 		},
@@ -262,8 +259,7 @@
 	},
 	{
 		ingredientPattern: "CGC,SC_",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"C": { type: "item", code: "cloth-purple", quantity: 1 },
 			"S": { type: "item", code: "sewingkit" },
 			"G": { type: "item", code: "nugget-nativegold", quantity: 4 }
@@ -274,8 +270,7 @@
 	},
     {
 		ingredientPattern: "RRR,SB_,_R_",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"R": { type: "item", code: "cloth-red", quantity: 1 },
 			"B": { type: "item", code: "cloth-blue", quantity: 1 },
 			"S": { type: "item", code: "sewingkit" }

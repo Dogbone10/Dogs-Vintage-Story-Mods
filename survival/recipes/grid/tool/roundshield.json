@@ -48,8 +48,7 @@
 	},
 	{
 		ingredientPattern: "SHW,BPB,OBG",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"P": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"B": { type: "item", code: "plank-*", name: "wood", quantity: 1 },
@@ -64,8 +63,7 @@
 	},
 	{
 		ingredientPattern: "SHW,BPB,OBG",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"P": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"B": { type: "item", code: "plank-*", name: "wood", quantity: 1 },
@@ -80,8 +78,7 @@
 	},
 	{
 		ingredientPattern: "SHW,BPB,OBG",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"P": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"B": { type: "item", code: "plank-*", name: "wood", quantity: 1 },
@@ -96,8 +93,7 @@
 	},
 	{
 		ingredientPattern: "SHW,BPB,OBG",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"P": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"B": { type: "item", code: "plank-*", name: "wood", quantity: 1 },
@@ -112,8 +108,7 @@
 	},
 	{
 		ingredientPattern: "SHW,BPB,OBG",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"P": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"B": { type: "item", code: "plank-*", name: "wood", quantity: 1 },
@@ -128,8 +123,7 @@
 	},
 	{
 		ingredientPattern: "SHW,BPB,OBG",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"P": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"B": { type: "item", code: "plank-*", name: "wood", quantity: 1 },
@@ -144,8 +138,7 @@
 	},
 	{
 		ingredientPattern: "SHW,BPB,OBG",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"P": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"B": { type: "item", code: "plank-*", name: "wood", quantity: 1 },
@@ -160,8 +153,7 @@
 	},
 	{
 		ingredientPattern: "SHW,BPB,OBG",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"P": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"B": { type: "item", code: "plank-*", name: "wood", quantity: 1 },
@@ -176,8 +168,7 @@
 	},
 	{
 		ingredientPattern: "SHW,BPB,OBG",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"P": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"B": { type: "item", code: "plank-*", name: "wood", quantity: 1 },
@@ -192,8 +183,7 @@
 	},
 	{
 		ingredientPattern: "SHW,BPB,OBG",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"P": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"B": { type: "item", code: "plank-*", name: "wood", quantity: 1 },
@@ -208,8 +198,7 @@
 	},
 	{
 		ingredientPattern: "SHW,BPB,OBG",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"P": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"B": { type: "item", code: "plank-*", name: "wood", quantity: 1 },
@@ -248,8 +237,7 @@
 	},
 	{
 		ingredientPattern: "SHW,PBP,Y_O",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"B": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"P": { type: "item", code: "metalplate-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
@@ -264,8 +252,7 @@
 	},
 	{
 		ingredientPattern: "SHW,PBP,Y_O",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"B": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"P": { type: "item", code: "metalplate-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
@@ -280,8 +267,7 @@
 	},
 	{
 		ingredientPattern: "SHW,PBP,Y_O",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"B": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"P": { type: "item", code: "metalplate-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
@@ -296,8 +282,7 @@
 	},
 	{
 		ingredientPattern: "SHW,PBP,Y_O",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"B": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"P": { type: "item", code: "metalplate-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
@@ -312,8 +297,7 @@
 	},
 	{
 		ingredientPattern: "SHW,PBP,Y_O",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"B": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"P": { type: "item", code: "metalplate-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
@@ -328,8 +312,7 @@
 	},
 	{
 		ingredientPattern: "SHW,PBP,Y_O",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"B": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"P": { type: "item", code: "metalplate-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
@@ -344,8 +327,7 @@
 	},
 	{
 		ingredientPattern: "SHW,PBP,Y_O",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"B": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"P": { type: "item", code: "metalplate-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
@@ -360,8 +342,7 @@
 	},
 	{
 		ingredientPattern: "SHW,PBP,Y_O",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"B": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"P": { type: "item", code: "metalplate-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
@@ -376,8 +357,7 @@
 	},
 	{
 		ingredientPattern: "SHW,PBP,Y_O",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"B": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"P": { type: "item", code: "metalplate-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
@@ -392,8 +372,7 @@
 	},
 	{
 		ingredientPattern: "SHW,PBP,Y_O",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"B": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"P": { type: "item", code: "metalplate-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
@@ -408,8 +387,7 @@
 	},
 	{
 		ingredientPattern: "SHW,PBP,Y_O",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"B": { type: "item", code: "boss-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"H": { type: "item", code: "hoop-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },
 			"P": { type: "item", code: "metalplate-*", name: "metal", allowedVariants: ["tinbronze", "bismuthbronze", "blackbronze", "iron", "meteoriciron", "steel", "gold", "silver"], quantity: 1 },

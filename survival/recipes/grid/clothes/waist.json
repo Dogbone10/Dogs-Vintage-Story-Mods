@@ -12,8 +12,7 @@
 	},
     {
 		ingredientPattern: "BBB,_S_",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"B": { type: "item", code: "cloth-blue", quantity: 1 },
 			"S": { type: "item", code: "sewingkit" }
 		},
@@ -23,8 +22,7 @@
 	},
     {
 		ingredientPattern: "GGG,SRR,_G_",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"R": { type: "item", code: "cloth-red", quantity: 2 },
 			"S": { type: "item", code: "sewingkit" },
 			"G": { type: "item", code: "nugget-nativegold", quantity: 4 }

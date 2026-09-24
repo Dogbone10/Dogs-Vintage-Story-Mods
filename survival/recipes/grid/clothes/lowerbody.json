@@ -310,8 +310,7 @@
 	},
     {
 		ingredientPattern: "BCB,BSB",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"B": { type: "item", code: "cloth-black", quantity: 1 },
 			"C": { type: "item", code: "cloth-blue", quantity: 1 },
 			"S": { type: "item", code: "sewingkit" }
@@ -322,8 +321,7 @@
 	},
 	{
 		ingredientPattern: "BCB,BSB",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"B": { type: "item", code: "cloth-black", quantity: 1 },
 			"C": { type: "item", code: "cloth-brown", quantity: 1 },
 			"S": { type: "item", code: "sewingkit" }
@@ -352,8 +350,7 @@
 	},
     {
 		ingredientPattern: "G_G,GSG",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"G": { type: "item", code: "cloth-green", quantity: 2 },
 			"S": { type: "item", code: "sewingkit" }
 		},
@@ -416,8 +413,7 @@
 	},
     {
 		ingredientPattern: "CSC,C_C,",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"C": { type: "item", code: "cloth-plain", quantity: 1 },
 			"S": { type: "item", code: "sewingkit" }
 		},
@@ -428,8 +424,7 @@
 	
 	{
 		ingredientPattern: "C_C,CSC",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"C": { type: "item", code: "cloth-plain", quantity: 1 },
 			"S": { type: "item", code: "sewingkit" }
 		},
@@ -439,8 +434,7 @@
 	},
     {
 		ingredientPattern: "C_C,CSC",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"C": { type: "item", code: "cloth-purple", quantity: 1 },
 			"S": { type: "item", code: "sewingkit" }
 		},

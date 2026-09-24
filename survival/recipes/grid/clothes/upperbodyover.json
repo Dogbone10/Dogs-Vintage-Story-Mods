@@ -161,8 +161,7 @@
 	},
     {
 		ingredientPattern: "BSB,BYB",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"B": { type: "item", code: "cloth-blue", quantity: 1 },
 			"Y": { type: "item", code: "cloth-yellow", quantity: 1 },
 			"S": { type: "item", code: "sewingkit" }
@@ -194,8 +193,7 @@
 	},
     {
 		ingredientPattern: "PSP,GGG",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"G": { type: "item", code: "cloth-green", quantity: 1 },
 			"P": { type: "item", code: "cloth-plain", quantity: 1 },
 			"S": { type: "item", code: "sewingkit" }
@@ -206,8 +204,7 @@
 	},
 	{
 		ingredientPattern: "GSG,BGB",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"G": { type: "item", code: "cloth-green", quantity: 1 },
 			"B": { type: "item", code: "cloth-blue", quantity: 1 },
 			"S": { type: "item", code: "sewingkit" }
@@ -272,8 +269,7 @@
     },
     {
 		ingredientPattern: "HRH,PBP,PSP",
-		requiresTrait: "clothier",
-		recipeGroup: 1,
+			recipeGroup: 1,
 		ingredients: {
 			"P": { type: "item", code: "cloth-plain", quantity: 1 },
 			"R": { type: "item", code: "cloth-red", quantity: 2 },
@@ -287,8 +283,7 @@
 	},
 	{
 		ingredientPattern: "HRH,PBP,PSP",
-		requiresTrait: "clothier",
-		recipeGroup: 2,
+			recipeGroup: 2,
 		ingredients: {
 			"P": { type: "item", code: "cloth-plain", quantity: 1 },
 			"R": { type: "item", code: "cloth-red", quantity: 2 },
@@ -302,8 +297,7 @@
 	},
 	{
 		ingredientPattern: "HR_,PBP,PSP",
-		requiresTrait: "clothier",
-		recipeGroup: 2,
+			recipeGroup: 2,
 		ingredients: {
 			"P": { type: "item", code: "cloth-plain", quantity: 1 },
 			"R": { type: "item", code: "cloth-red", quantity: 2 },

@@ -232,8 +232,7 @@
 	},
     {
 		ingredientPattern: "RSR",
-		requiresTrait: "clothier",
-		ingredients: {
+			ingredients: {
 			"R": { type: "item", code: "cloth-red", quantity: 2 },
 			"S": { type: "item", code: "sewingkit" }
 		},
