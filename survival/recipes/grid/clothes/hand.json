@@ -51,7 +51,6 @@
     {
 		ingredientPattern: "HKH,_C_,_S_",
 		recipeGroup: 1,
-        requiresTrait: "clothier",
 		ingredients: {
 			"H": { type: "item", code: "hide-pelt-*", quantity: 2, tags: ["size-small"] },
 			"K": { type: "item", isTool: true, tags: ["tool-trimming"]  },
@@ -65,7 +64,6 @@
 	{
 		ingredientPattern: "HKH,_C_,_S_",
 		recipeGroup: 2,
-        requiresTrait: "clothier",
 		ingredients: {
 			"H": { type: "item", code: "hide-pelt-*", quantity: 1, tags: ["size-medium"] },
 			"K": { type: "item", isTool: true, tags: ["tool-trimming"]  },
@@ -80,7 +78,6 @@
 	{
 		ingredientPattern: "HKC,_S_",
 		recipeGroup: 3,
-        requiresTrait: "clothier",
 		ingredients: {
 			"H": { type: "item", code: "hide-pelt-*", quantity: 1, tags: ["size-large"] },
 			"K": { type: "item", isTool: true, tags: ["tool-trimming"]  },
@@ -94,7 +91,6 @@
 	{
 		ingredientPattern: "HKC,_S_",
 		recipeGroup: 3,
-        requiresTrait: "clothier",
 		ingredients: {
 			"H": { type: "item", code: "hide-pelt-*", quantity: 1, tags: ["size-huge"], returnedStack: { type: "item", code: "hide-pelt-small" } },
 			"K": { type: "item", isTool: true, tags: ["tool-trimming"]  },
@@ -108,7 +104,6 @@
     {
 		ingredientPattern: "HKH,_C_,_S_",
 		recipeGroup: 1,
-        requiresTrait: "clothier",
 		ingredients: {
 			"H": { type: "item", code: "hide-pelt-*", quantity: 2, tags: ["size-small"] },
 			"K": { type: "item", isTool: true, tags: ["tool-trimming"]  },
@@ -122,7 +117,6 @@
 	{
 		ingredientPattern: "HKH,_C_,_S_",
 		recipeGroup: 2,
-        requiresTrait: "clothier",
 		ingredients: {
 			"H": { type: "item", code: "hide-pelt-*", quantity: 1, tags: ["size-medium"] },
 			"K": { type: "item", isTool: true, tags: ["tool-trimming"]  },
@@ -137,7 +131,6 @@
 	{
 		ingredientPattern: "HKC,_S_",
 		recipeGroup: 3,
-        requiresTrait: "clothier",
 		ingredients: {
 			"H": { type: "item", code: "hide-pelt-*", quantity: 1, tags: ["size-large"] },
 			"K": { type: "item", isTool: true, tags: ["tool-trimming"]  },
@@ -151,7 +144,6 @@
 	{
 		ingredientPattern: "HKC,_S_",
 		recipeGroup: 3,
-        requiresTrait: "clothier",
 		ingredients: {
 			"H": { type: "item", code: "hide-pelt-*", quantity: 1, tags: ["size-huge"], returnedStack: { type: "item", code: "hide-pelt-small" } },
 			"K": { type: "item", isTool: true, tags: ["tool-trimming"]  },
@@ -232,7 +224,6 @@
 	},
     {
 		ingredientPattern: "RSR",
-		requiresTrait: "clothier",
 		ingredients: {
 			"R": { type: "item", code: "cloth-red", quantity: 2 },
 			"S": { type: "item", code: "sewingkit" }

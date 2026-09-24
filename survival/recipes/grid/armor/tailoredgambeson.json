@@ -2,7 +2,6 @@
 	{
 		ingredientPattern: "TST,L_L",
 		recipeGroup: 1,
-		requiresTrait: "clothier",
 		ingredients: {
 			"L": { type: "item", code: "cloth-*", quantity: 1, name: "color", allowedVariants: ["plain", "blue", "brown", "gray", "black", "green", "orange", "pink", "purple", "red", "white", "yellow"], },
 			"T": { type: "item", code: "flaxtwine", quantity: 1 },
@@ -16,7 +15,6 @@
 	{
 		ingredientPattern: "L_L,MMM,LSL",
 		recipeGroup: 1,
-		requiresTrait: "clothier",
 		ingredients: {
 			"L": { type: "item", code: "cloth-*", quantity: 1, name: "color", allowedVariants: ["plain", "blue", "brown", "gray", "black", "green", "orange", "pink", "purple", "red", "white", "yellow"], },
 			"M": { type: "item", code: "cloth-*", quantity: 2, name: "color", allowedVariants: ["plain", "blue", "brown", "gray", "black", "green", "orange", "pink", "purple", "red", "white", "yellow"], },
@@ -31,7 +29,6 @@
 	{
 		ingredientPattern: "LSL,L_L,T_T",
 		recipeGroup: 1,
-		requiresTrait: "clothier",
 		ingredients: {
 			"L": { type: "item", code: "cloth-*", quantity: 1, name: "color", allowedVariants: ["plain", "blue", "brown", "gray", "black", "green", "orange", "pink", "purple", "red", "white", "yellow"], },
 			"T": { type: "item", code: "flaxtwine", quantity: 1 },

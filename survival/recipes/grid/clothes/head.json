@@ -150,7 +150,6 @@
 	},
     {
 		ingredientPattern: "RR,S_",
-		requiresTrait: "clothier",
 		ingredients: {
 			"R": { type: "item", code: "cloth-red", quantity: 2 },
 			"S": { type: "item", code: "sewingkit" }
@@ -161,7 +160,6 @@
 	},
     {
 		ingredientPattern: "RG,SR",
-		requiresTrait: "clothier",
 		ingredients: {
 			"R": { type: "item", code: "cloth-red", quantity: 2 },
 			"S": { type: "item", code: "sewingkit" },
@@ -202,7 +200,6 @@
 	},
 	{
 		ingredientPattern: "_B_,BSB",
-		requiresTrait: "clothier",
 		ingredients: {
 			"B": { type: "item", code: "cloth-black", quantity: 1 },
 			"S": { type: "item", code: "sewingkit" }

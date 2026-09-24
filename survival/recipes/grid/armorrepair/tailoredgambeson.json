@@ -2,7 +2,6 @@
 	{
 		ingredientPattern: "B,L",
 		recipeGroup: 2,
-		requiresTrait: "clothier",
 		ingredients: {
 			"B": { type: "item", code: "armor-head-tailored-*-linen", name: "color"  },
 			"L": { type: "item", code: "cloth-*", name: "color", allowedVariants: ["plain", "blue", "brown", "gray", "black", "green", "orange", "pink", "purple", "red", "white", "yellow"], }
@@ -18,7 +17,6 @@
 	{
 		ingredientPattern: "B,L",
 		recipeGroup: 2,
-		requiresTrait: "clothier",
 		ingredients: {
 			"B": { type: "item", code: "armor-body-tailored-*-linen", name: "color"  },
 			"L": { type: "item", code: "cloth-*", name: "color", allowedVariants: ["plain", "blue", "brown", "gray", "black", "green", "orange", "pink", "purple", "red", "white", "yellow"], }
@@ -34,7 +32,6 @@
 	{
 		ingredientPattern: "B,L",
 		recipeGroup: 2,
-		requiresTrait: "clothier",
 		ingredients: {
 			"B": { type: "item", code: "armor-legs-tailored-*-linen", name: "color"  },
 			"L": { type: "item", code: "cloth-*", name: "color", allowedVariants: ["plain", "blue", "brown", "gray", "black", "green", "orange", "pink", "purple", "red", "white", "yellow"], }
