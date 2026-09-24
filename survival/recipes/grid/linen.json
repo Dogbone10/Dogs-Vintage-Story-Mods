@@ -10,6 +10,7 @@
 },
 {
 	ingredientPattern: "S	L",
+	requiresTrait: "clothier",
 	ingredients: {
 		"S": { type: "item", code: "sewingkit",	returnedStack: { type: "item", code: "sewingkit" }},
 		"L": { type: "block", code: "linen-normal-down" }
@@ -20,6 +21,7 @@
 },
 {
 	ingredientPattern: "L	S",
+	requiresTrait: "clothier",
 	ingredients: {
 		"S": { type: "item", code: "sewingkit",	returnedStack: { type: "item", code: "sewingkit" }},
 		"L": { type: "block", code: "linen-normal-down" }
@@ -30,6 +32,7 @@
 },
 {
 	ingredientPattern: "SL",
+	requiresTrait: "clothier",
 	ingredients: {
 		"S": { type: "item", code: "sewingkit",	returnedStack: { type: "item", code: "sewingkit" }},
 		"L": { type: "block", code: "linen-normal-down" }

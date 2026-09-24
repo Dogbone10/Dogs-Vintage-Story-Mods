@@ -1,5 +1,6 @@
 {
 	ingredientPattern: "FFS	FF_",
+	requiresTrait: "clothier",
 	ingredients: {
 		"F": { type: "item", code: "flaxtwine" },
 		"S": { type: "item", code: "stick" }

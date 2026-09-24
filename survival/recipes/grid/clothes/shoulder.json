@@ -112,6 +112,7 @@
     {
 		ingredientPattern: "BCW,_S_",
 		recipeGroup: 1,
+        requiresTrait: "clothier",
 		ingredients: {
 			"B": { type: "item", code: "cloth-brown", quantity: 1 },
 			"C": { type: "item", code: "cloth-black", quantity: 1 },
@@ -125,6 +126,7 @@
     {
 		ingredientPattern: "BCW,_S_",
 		recipeGroup: 1,
+        requiresTrait: "clothier",
 		ingredients: {
 			"B": { type: "item", code: "cloth-gray", quantity: 1 },
 			"C": { type: "item", code: "cloth-black", quantity: 1 },
@@ -138,6 +140,7 @@
     {
 		ingredientPattern: "TST,_C_,_C_",
 		recipeGroup: 1,
+        requiresTrait: "clothier",
 		ingredients: {
 			"C": { type: "item", code: "cloth-{color}", quantity: 1 },
 			"S": { type: "item", code: "sewingkit", quantity: 1 },
@@ -173,7 +176,8 @@
 	},
     {
 		ingredientPattern: "B_R,YSB,R_Y",
-			ingredients: {
+		requiresTrait: "clothier",
+		ingredients: {
 			"B": { type: "item", code: "cloth-blue", quantity: 1 },
 			"Y": { type: "item", code: "cloth-yellow", quantity: 1 },
 			"R": { type: "item", code: "cloth-red", quantity: 1 },
@@ -186,7 +190,8 @@
 	
 	{
 		ingredientPattern: "BPB,BPB,_S_",
-			ingredients: {
+		requiresTrait: "clothier",
+		ingredients: {
 			"B": { type: "item", code: "cloth-blue", quantity: 1 },
 			"P": { type: "item", code: "cloth-purple", quantity: 1 },
 			"S": { type: "item", code: "sewingkit" }
@@ -246,7 +251,8 @@
 	},
     {
 		ingredientPattern: "CCC,CSC",
-			ingredients: {
+		requiresTrait: "clothier",
+		ingredients: {
 			"C": { type: "item", code: "cloth-purple", quantity: 1 },
 			"S": { type: "item", code: "sewingkit" }
 		},
@@ -256,7 +262,8 @@
 	},
 	{
 		ingredientPattern: "CGC,SC_",
-			ingredients: {
+		requiresTrait: "clothier",
+		ingredients: {
 			"C": { type: "item", code: "cloth-purple", quantity: 1 },
 			"S": { type: "item", code: "sewingkit" },
 			"G": { type: "item", code: "nugget-nativegold", quantity: 4 }
@@ -267,7 +274,8 @@
 	},
     {
 		ingredientPattern: "RRR,SB_,_R_",
-			ingredients: {
+		requiresTrait: "clothier",
+		ingredients: {
 			"R": { type: "item", code: "cloth-red", quantity: 1 },
 			"B": { type: "item", code: "cloth-blue", quantity: 1 },
 			"S": { type: "item", code: "sewingkit" }

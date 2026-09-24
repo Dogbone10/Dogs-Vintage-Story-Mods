@@ -47,6 +47,7 @@
     {
 		ingredientPattern: "HKH,HCH,SVS",
 		recipeGroup: 1,
+        requiresTrait: "clothier",
 		ingredients: {
 			"H": { type: "item", code: "hide-pelt-*", quantity: 1, tags: ["size-small"] },
 			"K": { type: "item", isTool: true, tags: ["tool-trimming"]  },
@@ -61,6 +62,7 @@
 	{
 		ingredientPattern: "_K_,HCH,SVS",
 		recipeGroup: 2,
+        requiresTrait: "clothier",
 		ingredients: {
 			"H": { type: "item", code: "hide-pelt-*", quantity: 1, tags: ["size-medium"] },
 			"K": { type: "item", isTool: true, tags: ["tool-trimming"]  },
@@ -75,6 +77,7 @@
 	{
 		ingredientPattern: "_K_,_HC,SVS",
 		recipeGroup: 3,
+        requiresTrait: "clothier",
 		ingredients: {
 			"H": { type: "item", code: "hide-pelt-*", quantity: 1, tags: ["size-large"] },
 			"K": { type: "item", isTool: true, tags: ["tool-trimming"]  },
@@ -89,6 +92,7 @@
     {
 		ingredientPattern: "HKH,HCH,_V_",
 		recipeGroup: 1,
+        requiresTrait: "clothier",
 		ingredients: {
 			"H": { type: "item", code: "hide-pelt-*", quantity: 1, tags: ["size-small"] },
 			"K": { type: "item", isTool: true, tags: ["tool-trimming"]  },
@@ -102,6 +106,7 @@
 	{
 		ingredientPattern: "_K_,HCH,_V_",
 		recipeGroup: 2,
+        requiresTrait: "clothier",
 		ingredients: {
 			"H": { type: "item", code: "hide-pelt-*", quantity: 1, tags: ["size-medium"] },
 			"K": { type: "item", isTool: true, tags: ["tool-trimming"]  },
@@ -115,6 +120,7 @@
 	{
 		ingredientPattern: "_K_,_HC,_V_",
 		recipeGroup: 3,
+        requiresTrait: "clothier",
 		ingredients: {
 			"H": { type: "item", code: "hide-pelt-*", quantity: 1, tags: ["size-large"] },
 			"K": { type: "item", isTool: true, tags: ["tool-trimming"]  },
@@ -146,7 +152,8 @@
 	},
 	{
 		ingredientPattern: "B_B,GSG",
-			ingredients: {
+		requiresTrait: "clothier",
+		ingredients: {
 			"G": { type: "item", code: "cloth-green", quantity: 1 },
 			"B": { type: "item", code: "cloth-black", quantity: 1 },
 			"S": { type: "item", code: "sewingkit" }
@@ -233,7 +240,8 @@
 	},
     {
 		ingredientPattern: "PHP,CSC",
-			recipeGroup: 1,
+		requiresTrait: "clothier",
+		recipeGroup: 1,
 		ingredients: {
 			"P": { type: "item", code: "cloth-pink", quantity: 2 },
 			"C": { type: "item", code: "cloth-plain", quantity: 2 },
@@ -246,7 +254,8 @@
 	},
 	{
 		ingredientPattern: "PHP,CSC",
-			recipeGroup: 2,
+		requiresTrait: "clothier",
+		recipeGroup: 2,
 		ingredients: {
 			"P": { type: "item", code: "cloth-pink", quantity: 2 },
 			"C": { type: "item", code: "cloth-plain", quantity: 2 },

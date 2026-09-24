@@ -150,7 +150,8 @@
 	},
     {
 		ingredientPattern: "RR,S_",
-			ingredients: {
+		requiresTrait: "clothier",
+		ingredients: {
 			"R": { type: "item", code: "cloth-red", quantity: 2 },
 			"S": { type: "item", code: "sewingkit" }
 		},
@@ -160,7 +161,8 @@
 	},
     {
 		ingredientPattern: "RG,SR",
-			ingredients: {
+		requiresTrait: "clothier",
+		ingredients: {
 			"R": { type: "item", code: "cloth-red", quantity: 2 },
 			"S": { type: "item", code: "sewingkit" },
 			"G": { type: "item", code: "nugget-nativegold", quantity: 4 }
@@ -200,7 +202,8 @@
 	},
 	{
 		ingredientPattern: "_B_,BSB",
-			ingredients: {
+		requiresTrait: "clothier",
+		ingredients: {
 			"B": { type: "item", code: "cloth-black", quantity: 1 },
 			"S": { type: "item", code: "sewingkit" }
 		},
